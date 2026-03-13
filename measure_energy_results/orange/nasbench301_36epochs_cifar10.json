@@ -1,0 +1,182 @@
+{
+    "5268": {
+        "accuracy_percent": 85.1,
+        "avg_latency_ms": 16.445859670639038,
+        "RAM_usage_MB": 737.609375,
+        "swap_usage_MB": 0.0,
+        "peak_memory_MB": 325.58984375,
+        "energy_result": {
+            "result": {
+                "average_power_W": 2.4732790154069946,
+                "duration": 21.18637466430664,
+                "end_time": 1773123692.250552,
+                "energy_mWh": 11.367920240172163,
+                "power_offset_W": 0.541635989497205,
+                "start_time": 1773123671.0641773
+            },
+            "status": "stopped"
+        }
+    },
+    "5234": {
+        "accuracy_percent": 87.0,
+        "avg_latency_ms": 15.228577375411987,
+        "RAM_usage_MB": 799.86328125,
+        "swap_usage_MB": 0.0,
+        "peak_memory_MB": 352.3046875,
+        "energy_result": {
+            "result": {
+                "average_power_W": 2.403426368812375,
+                "duration": 20.0423104763031,
+                "end_time": 1773123728.9720144,
+                "energy_mWh": 10.365161340007987,
+                "power_offset_W": 0.541635989497205,
+                "start_time": 1773123708.929704
+            },
+            "status": "stopped"
+        }
+    },
+    "4429": {
+        "accuracy_percent": 85.2,
+        "avg_latency_ms": 13.407398223876953,
+        "RAM_usage_MB": 767.37109375,
+        "swap_usage_MB": 0.0,
+        "peak_memory_MB": 355.68359375,
+        "energy_result": {
+            "result": {
+                "average_power_W": 2.5944238095364787,
+                "duration": 18.64085030555725,
+                "end_time": 1773123764.1714294,
+                "energy_mWh": 10.629364017339805,
+                "power_offset_W": 0.541635989497205,
+                "start_time": 1773123745.530579
+            },
+            "status": "stopped"
+        }
+    },
+    "3730": {
+        "accuracy_percent": 86.8,
+        "avg_latency_ms": 13.958326816558838,
+        "RAM_usage_MB": 766.23828125,
+        "swap_usage_MB": 0.0,
+        "peak_memory_MB": 354.015625,
+        "energy_result": {
+            "result": {
+                "average_power_W": 2.5103392809031977,
+                "duration": 18.73793864250183,
+                "end_time": 1773123799.9620764,
+                "energy_mWh": 10.247067077682471,
+                "power_offset_W": 0.541635989497205,
+                "start_time": 1773123781.2241378
+            },
+            "status": "stopped"
+        }
+    },
+    "2475": {
+        "accuracy_percent": 89.7,
+        "avg_latency_ms": 13.018422842025757,
+        "RAM_usage_MB": 765.7265625,
+        "swap_usage_MB": 0.0,
+        "peak_memory_MB": 353.78515625,
+        "energy_result": {
+            "result": {
+                "average_power_W": 2.5878063776295552,
+                "duration": 17.990248680114746,
+                "end_time": 1773123834.5994346,
+                "energy_mWh": 10.225309478996637,
+                "power_offset_W": 0.541635989497205,
+                "start_time": 1773123816.609186
+            },
+            "status": "stopped"
+        }
+    },
+    "2854": {
+        "accuracy_percent": 87.5,
+        "avg_latency_ms": 16.278786659240723,
+        "RAM_usage_MB": 767.63671875,
+        "swap_usage_MB": 0.0,
+        "peak_memory_MB": 355.2265625,
+        "energy_result": {
+            "result": {
+                "average_power_W": 2.499128130622161,
+                "duration": 21.108623027801514,
+                "end_time": 1773123872.4490767,
+                "energy_mWh": 11.477767690802983,
+                "power_offset_W": 0.541635989497205,
+                "start_time": 1773123851.3404536
+            },
+            "status": "stopped"
+        }
+    },
+    "2768": {
+        "accuracy_percent": 87.7,
+        "avg_latency_ms": 14.78205919265747,
+        "RAM_usage_MB": 764.390625,
+        "swap_usage_MB": 0.0,
+        "peak_memory_MB": 352.4921875,
+        "energy_result": {
+            "result": {
+                "average_power_W": 2.3695081845501016,
+                "duration": 19.802955389022827,
+                "end_time": 1773123908.930448,
+                "energy_mWh": 10.054797648741038,
+                "power_offset_W": 0.541635989497205,
+                "start_time": 1773123889.1274927
+            },
+            "status": "stopped"
+        }
+    },
+    "888": {
+        "accuracy_percent": 86.0,
+        "avg_latency_ms": 12.974698066711426,
+        "RAM_usage_MB": 763.90234375,
+        "swap_usage_MB": 0.0,
+        "peak_memory_MB": 351.36328125,
+        "energy_result": {
+            "result": {
+                "average_power_W": 2.4464429212063488,
+                "duration": 17.65565800666809,
+                "end_time": 1773123943.214096,
+                "energy_mWh": 9.341838820829839,
+                "power_offset_W": 0.541635989497205,
+                "start_time": 1773123925.558438
+            },
+            "status": "stopped"
+        }
+    },
+    "5069": {
+        "accuracy_percent": 87.3,
+        "avg_latency_ms": 14.938623428344727,
+        "RAM_usage_MB": 767.5859375,
+        "swap_usage_MB": 0.0,
+        "peak_memory_MB": 355.12890625,
+        "energy_result": {
+            "result": {
+                "average_power_W": 2.5837719269015977,
+                "duration": 20.067773818969727,
+                "end_time": 1773123980.0465386,
+                "energy_mWh": 11.383645027616964,
+                "power_offset_W": 0.541635989497205,
+                "start_time": 1773123959.9787648
+            },
+            "status": "stopped"
+        }
+    },
+    "5960": {
+        "accuracy_percent": 85.2,
+        "avg_latency_ms": 15.730194091796875,
+        "RAM_usage_MB": 764.37109375,
+        "swap_usage_MB": 0.0,
+        "peak_memory_MB": 352.77734375,
+        "energy_result": {
+            "result": {
+                "average_power_W": 2.3730040374305594,
+                "duration": 20.684688091278076,
+                "end_time": 1773124017.3972378,
+                "energy_mWh": 10.522576903287288,
+                "power_offset_W": 0.541635989497205,
+                "start_time": 1773123996.7125497
+            },
+            "status": "stopped"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+name: nasbench-framework
+
+channels:
+  - conda-forge
+  - pytorch
+
+dependencies:
+  # --- Base ---
+  - python=3.8
+  - pip
+
+  # --- Core scientific stack ---
+  - numpy
+  - scipy
+  - pandas
+  - tqdm
+  - pyyaml
+  - networkx
+
+  # --- Plotting (used by NAS-Bench-301 surrogate utilities) ---
+  - matplotlib
+  - seaborn
+
+  # --- NAS-Bench-201 (loads .pth via torch) ---
+  - pytorch
+  - torchvision
+  - cpuonly
+
+  # --- NAS-Bench-301 (classical surrogates) ---
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  - configspace
+  - ipython 
+  - pathvalidate
+  # --- NAS-Bench-101 (TensorFlow 1.x API needs old protobuf) ---
+  - protobuf=3.20.*
+
+  # --- Typing helpers ---
+  - typing_extensions
+
+  #  ---- SUITE ZERO 
+  - fvcore==0.1.5.post20210630
+  - scikit-image
+  - transforms3d
+  - pytorch-msssim
+
+
+  # --- Pip-only / version-pinned deps ---
+  - pip:
+      # NAS-Bench-101 uses TF1 APIs - TF 2.x with compat.v1 compatibility layer
+      # TF 1.15 not available for Python 3.8+
+      - tensorflow>=2.2.0,<2.14.0
+      
+      # Version-pinned for compatibility
+      - pandas<2.0.0                    # dask/lightgbm compatibility
+      - ConfigSpace==0.4.21             # NAS-Bench-301 JSON schema compatibility
+      - absl-py                         # NAS-Bench-101 dependency
+
+      # Optional: only needed if you plan to use the NGBoost surrogate
+      - ngboost
+      
+      # Required for SuiteZero (fvcore dependency)
+      - iopath

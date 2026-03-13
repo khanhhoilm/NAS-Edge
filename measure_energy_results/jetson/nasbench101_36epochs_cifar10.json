@@ -1,0 +1,182 @@
+{
+    "c279a036dd8d3f014d8c01b10350a781": {
+        "accuracy_percent": 85.8,
+        "avg_latency_ms": 74.27854490280151,
+        "RAM_usage_MB": 1870.60546875,
+        "swap_usage_MB": 2102.2578125,
+        "peak_memory_MB": 1030.75,
+        "energy_result": {
+            "result": {
+                "average_power_W": 7.592671981748769,
+                "duration": 30.965235471725464,
+                "end_time": 1773115731.4433155,
+                "energy_mWh": 48.19276017668779,
+                "power_offset_W": 1.9898101273800402,
+                "start_time": 1773115700.47808
+            },
+            "status": "stopped"
+        }
+    },
+    "5ef3f54057e4d421b46c60cd945bc835": {
+        "accuracy_percent": 88.3,
+        "avg_latency_ms": 46.46309041976929,
+        "RAM_usage_MB": 1840.05078125,
+        "swap_usage_MB": 2033.359375,
+        "peak_memory_MB": 1103.8125,
+        "energy_result": {
+            "result": {
+                "average_power_W": 7.0779950536630665,
+                "duration": 49.61368441581726,
+                "end_time": 1773115804.9673023,
+                "energy_mWh": 70.12322255053458,
+                "power_offset_W": 1.9898101273800402,
+                "start_time": 1773115755.353618
+            },
+            "status": "stopped"
+        }
+    },
+    "3384125a917417a90011cf90c90823d7": {
+        "accuracy_percent": 86.6,
+        "avg_latency_ms": 25.399088382720947,
+        "RAM_usage_MB": 1825.12109375,
+        "swap_usage_MB": 2040.7421875,
+        "peak_memory_MB": 1118.16015625,
+        "energy_result": {
+            "result": {
+                "average_power_W": 7.541728486914117,
+                "duration": 26.387805461883545,
+                "end_time": 1773115852.545705,
+                "energy_mWh": 40.695261558790236,
+                "power_offset_W": 1.9898101273800402,
+                "start_time": 1773115826.1578996
+            },
+            "status": "stopped"
+        }
+    },
+    "5831fc3b763335a68ad15db900b0f8fc": {
+        "accuracy_percent": 88.3,
+        "avg_latency_ms": 47.2468523979187,
+        "RAM_usage_MB": 1812.96875,
+        "swap_usage_MB": 2070.8671875,
+        "peak_memory_MB": 1054.23046875,
+        "energy_result": {
+            "result": {
+                "average_power_W": 6.797831704941803,
+                "duration": 51.5314257144928,
+                "end_time": 1773115926.5721765,
+                "energy_mWh": 68.82339076605624,
+                "power_offset_W": 1.9898101273800402,
+                "start_time": 1773115875.0407507
+            },
+            "status": "stopped"
+        }
+    },
+    "7c0ecbb552f84ac37cf3de395b313ca9": {
+        "accuracy_percent": 88.1,
+        "avg_latency_ms": 30.321202993392944,
+        "RAM_usage_MB": 1810.8828125,
+        "swap_usage_MB": 2070.69921875,
+        "peak_memory_MB": 1052.484375,
+        "energy_result": {
+            "result": {
+                "average_power_W": 7.5892033492396225,
+                "duration": 31.412933111190796,
+                "end_time": 1773115979.222244,
+                "energy_mWh": 48.85926798375838,
+                "power_offset_W": 1.9898101273800402,
+                "start_time": 1773115947.809311
+            },
+            "status": "stopped"
+        }
+    },
+    "5f509cddcdbbdf2c220f60696f9dc152": {
+        "accuracy_percent": 88.2,
+        "avg_latency_ms": 37.051655292510986,
+        "RAM_usage_MB": 1837.15234375,
+        "swap_usage_MB": 2075.46875,
+        "peak_memory_MB": 1072.54296875,
+        "energy_result": {
+            "result": {
+                "average_power_W": 7.39506345071896,
+                "duration": 38.40078854560852,
+                "end_time": 1773116039.7632203,
+                "energy_mWh": 57.657219418051554,
+                "power_offset_W": 1.9898101273800402,
+                "start_time": 1773116001.3624318
+            },
+            "status": "stopped"
+        }
+    },
+    "96b2d252659a05e8d62bf19a960e1f5d": {
+        "accuracy_percent": 88.0,
+        "avg_latency_ms": 34.16301655769348,
+        "RAM_usage_MB": 1830.171875,
+        "swap_usage_MB": 2096.921875,
+        "peak_memory_MB": 1062.58984375,
+        "energy_result": {
+            "result": {
+                "average_power_W": 7.720030432161464,
+                "duration": 35.0571985244751,
+                "end_time": 1773116096.8445933,
+                "energy_mWh": 55.80151967047238,
+                "power_offset_W": 1.9898101273800402,
+                "start_time": 1773116061.7873948
+            },
+            "status": "stopped"
+        }
+    },
+    "eb3c0bfacdc3dc19c5c1c67ba225d6b6": {
+        "accuracy_percent": 88.5,
+        "avg_latency_ms": 23.066044092178345,
+        "RAM_usage_MB": 1789.4921875,
+        "swap_usage_MB": 2102.06640625,
+        "peak_memory_MB": 1045.703125,
+        "energy_result": {
+            "result": {
+                "average_power_W": 8.009308539172014,
+                "duration": 23.729697704315186,
+                "end_time": 1773116140.9743817,
+                "energy_mWh": 39.67802156761914,
+                "power_offset_W": 1.9898101273800402,
+                "start_time": 1773116117.244684
+            },
+            "status": "stopped"
+        }
+    },
+    "4cf84f360d0466cb331fa39834412531": {
+        "accuracy_percent": 87.8,
+        "avg_latency_ms": 22.76020836830139,
+        "RAM_usage_MB": 1788.078125,
+        "swap_usage_MB": 2102.03125,
+        "peak_memory_MB": 1046.3359375,
+        "energy_result": {
+            "result": {
+                "average_power_W": 7.523231315837924,
+                "duration": 23.847039699554443,
+                "end_time": 1773116185.3800406,
+                "energy_mWh": 36.65436520986413,
+                "power_offset_W": 1.9898101273800402,
+                "start_time": 1773116161.533001
+            },
+            "status": "stopped"
+        }
+    },
+    "afc730ea4adca9e8369df11e6010bdb5": {
+        "accuracy_percent": 87.8,
+        "avg_latency_ms": 21.500471353530884,
+        "RAM_usage_MB": 1788.6328125,
+        "swap_usage_MB": 2101.92578125,
+        "peak_memory_MB": 1046.04296875,
+        "energy_result": {
+            "result": {
+                "average_power_W": 7.6440142285,
+                "duration": 22.33722233772278,
+                "end_time": 1773116228.2237082,
+                "energy_mWh": 35.08311504155014,
+                "power_offset_W": 1.9898101273800402,
+                "start_time": 1773116205.8864858
+            },
+            "status": "stopped"
+        }
+    }
+}

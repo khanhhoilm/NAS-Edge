@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
+
+# Local datasets and generated artifacts
+data/
+topk_nasbench_outputs/
+topk_nasbench_models/
+measure_energy_results/*.json
+measure_energy_results/*.tmp
+
+# Logs / temp
+*.log
+*.tmp
+*.swp
+*/nb_models_1.0/*
+
+# NASBench301 model artifact folders (no source code)
+src/nasbench/nasbench301/nb_models_2.0/xgb_v1.0/*
+src/nasbench/nasbench301/nb_models_2.0/xgb_v2.0/*
+src/nasbench/nasbench301/nb_models_2.0/gnn_gin_v1.0/*
+src/nasbench/nasbench301/nb_models_2.0/lgb_runtime_v1.0/*
+src/nasbench/nasbench301/nb_models_1.0/gnn_gin_v1.0/*
+src/nasbench/nasbench301/nb_models_1.0/lgb_runtime_v1.0/*
+src/nasbench/nasbench301/nb_models_1.0/xgb_v1.0/*
+*.model
+src/nasbench/nasbench101/nasbench_full.tfrecord
+src/nasbench/nasbench201/NAS-Bench-201-v1_1-096897.pth
+*.tfrecord
+
+# NASBench data/artifact folders (no source code)
+src/nasbench/**/nb_models_2.0/*
+src/nasbench/accel_nasbench/anb_models_0_9/
+src/nasbench/nas_bench_suite_zero/naslib/data/
+src/nasbench/nas_bench_x11/models/
+src/nasbench/nas_bench_graph/light/
+
+./src/nasbench/nas_bench_suite_zero/naslib/data/*
+./data/cifar-10-python.tar.gz
