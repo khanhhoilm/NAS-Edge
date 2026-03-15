@@ -234,10 +234,10 @@ Notes:
 Please replace with your final BibTeX before publishing:
 
 ```bibtex
-@article{nas_hoi_2026,
-  title   = {NAS-HOI: Unified NAS Benchmark and Deployment Toolkit},
-  author  = {Your Name and Co-authors},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+@article{,
+  title   = {},
+  author  = {},
+  journal = {},
   year    = {2026}
 }
 ```
